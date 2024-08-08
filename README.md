@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey hey! I am Wesley Leite
 
-<!--
-**wesleyleitee/wesleyleitee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a developer passionate about technology and programming, with experience in different languages ​​and frameworks. Here, you will find a variety of projects that reflect my interest and expertise in software development.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wesleyleitee&show_icons=true&theme=radical)
+
+## 📚 Most Used Languages
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyleitee&layout=compact&theme=radical&langs_count=8)
+
+- **Versioning:** Git, GitHub, BitBucket
+- **Database:** SQL, Oracle, MySQL, MongoDB
+- **Deploy/CI-CD:** Docker, Jenkins
+- **Tests:** Jest, Jasmine
