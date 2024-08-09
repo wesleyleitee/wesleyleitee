@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a developer passionate about technology and p
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyleitee&layout=compact&theme=radical&langs_count=8)
 
-- **Versioning:** Git, GitHub, BitBucket, Sourcetree
+- **Versioning:** Git, GitHub, Azure Repos, BitBucket, Sourcetree
 - **Database:** Microsoft SQL Server, Oracle, MySQL, SQLite, PostgreSQL, Redis, Firebase Firestore, NoSQL - MongoDB
 - **Deploy/CI-CD:** GitHub Actions, Azure DevOps, Docker, Jenkins
 - **Tests:** Jest, Jasmine, Mocha, Selenium, Karma
