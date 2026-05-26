@@ -2,27 +2,7 @@
 
 Welcome to my GitHub profile! I am a developer passionate about technology and programming, with experience in different languages ​​and frameworks. Here, you will find a variety of projects that reflect my interest and expertise in software development.
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wesleyleitee&theme=radical"
-    alt="GitHub Stats de Wesley Leite"
-  />
-</p>
-
-## 📚 Most Used Languages
-
-<p align="left">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleyleitee&theme=radical"
-    alt="Linguagens mais usadas nos repositórios de Wesley Leite"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleyleitee&theme=radical"
-    alt="Linguagens mais usadas nos commits de Wesley Leite"
-  />
-</p>
+## 📚 Specialties and knowledge
 
 - **Versioning:** Git, GitHub, Azure Repos, BitBucket, Sourcetree
 - **Database:** Microsoft SQL Server, Oracle, MySQL, SQLite, PostgreSQL, Redis, Firebase Firestore, NoSQL - MongoDB
