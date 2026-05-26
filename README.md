@@ -10,6 +10,30 @@ Welcome to my GitHub profile! I am a developer passionate about technology and p
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyleitee&layout=compact&theme=radical&langs_count=8)
 
+
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wesleyleitee&theme=radical"
+    alt="GitHub Stats de Wesley Leite"
+  />
+</p>
+
+## 📚 Most Used Languages
+
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleyleitee&theme=radical"
+    alt="Linguagens mais usadas nos repositórios de Wesley Leite"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleyleitee&theme=radical"
+    alt="Linguagens mais usadas nos commits de Wesley Leite"
+  />
+</p>
+
 - **Versioning:** Git, GitHub, Azure Repos, BitBucket, Sourcetree
 - **Database:** Microsoft SQL Server, Oracle, MySQL, SQLite, PostgreSQL, Redis, Firebase Firestore, NoSQL - MongoDB
 - **Deploy/CI-CD:** GitHub Actions, Azure DevOps, Docker, Jenkins
