@@ -4,16 +4,6 @@ Welcome to my GitHub profile! I am a developer passionate about technology and p
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wesleyleitee&show_icons=true&theme=radical)
-
-## 📚 Most Used Languages
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyleitee&layout=compact&theme=radical&langs_count=8)
-
-
-
-## 📊 GitHub Stats
-
 <p align="left">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wesleyleitee&theme=radical"
